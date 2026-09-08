@@ -1,7 +1,13 @@
-## สวัสดีครับ ผมนิคกี้ 👋
+## สวัสดีครับ ผมนิคกี้ 👋 (Nattaphong Pongnangchai)
 
-นักศึกษาเทคโนโลยีธุรกิจดิจิทัล มทร.อีสาน วิทยาเขตขอนแก่น (GPAX 3.66)
-กำลังมองหาที่ฝึกสหกิจศึกษาด้าน **Full-Stack / Backend Development / Mobile Development**
+*นักศึกษาปริญญาตรี สาขาเทคโนโลยีธุรกิจดิจิทัล มทร.อีสาน วิทยาเขตขอนแก่น (GPAX 3.66)*
+
+🚀 **กำลังมองหาโอกาสฝึกสหกิจศึกษา (Co-op/Internship) ในตำแหน่ง:**
+
+* 💻 Full-Stack Developer
+* ⚙️ Backend Developer
+* 📱 Mobile Developer
+
 ---
 
 ### 🛠 เทคโนโลยีที่ใช้
@@ -16,15 +22,18 @@
 ### 📌 ผลงาน
 
 **[Food & Fit](https://github.com/Nattaphong001/food-and-fit)** — ปริญญานิพนธ์  
-ระบบจัดการโภชนาการและการออกกำลังกาย ครบทั้ง 3 ชั้น: 
-แอปมือถือ (Flutter) · เว็บแอดมิน (Flutter Web) · REST API (Go + Gin) + MySQL 17 ตาราง  
-รับผิดชอบพัฒนาระบบทั้งหมดในทีม 3 คน
+*ระบบจัดการโภชนาการและการออกกำลังกาย*
+* **Architecture:** พัฒนาครบ 3 ชั้น — แอปมือถือ (Flutter), เว็บแอดมิน (Flutter Web) และ REST API (Go + Gin)
+* **Database:** ออกแบบและจัดการฐานข้อมูล MySQL รวม 17 ตาราง
+* **Role:** รับผิดชอบการพัฒนาระบบหลักในทีม 3 คน
 
 **[Soy-Dee](https://github.com/Nattaphong001/soy-dee)**  
-เว็บแอปติดตามพฤติกรรมสุขภาพรายวัน — HTML/CSS/JS + Go + MySQL
+*เว็บแอปติดตามพฤติกรรมสุขภาพรายวัน* (กำลังพัฒนา)
+* **Tech Stack:** HTML/CSS/JS + Go + MySQL
 
 ---
 
 ### 📫 ติดต่อ
 
-nattaphong.pongnangchai@gmail.com
+* 📧 **Email:** [nattaphong.pongnangchai@gmail.com](mailto:nattaphong.pongnangchai@gmail.com)
+
