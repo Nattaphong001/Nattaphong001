@@ -24,7 +24,7 @@
 **[Food & Fit](https://github.com/Nattaphong001/food-and-fit)** — ปริญญานิพนธ์  
 *ระบบจัดการโภชนาการและการออกกำลังกาย*
 * **Architecture:** พัฒนาครบ 3 ชั้น — แอปมือถือ (Flutter), เว็บแอดมิน (Flutter Web) และ REST API (Go + Gin)
-* **Database:** ออกแบบและจัดการฐานข้อมูล MySQL รวม 17 ตาราง
+* **Database:** ออกแบบและจัดการฐานข้อมูล MySQL รวม 18 ตาราง
 * **Role:** รับผิดชอบการพัฒนาระบบหลักในทีม 3 คน
 
 **[Soy-Dee](https://github.com/Nattaphong001/soy-dee)**  
