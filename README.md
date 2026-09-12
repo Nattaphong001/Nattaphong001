@@ -4,8 +4,8 @@
 
 🚀 **กำลังมองหาโอกาสฝึกสหกิจศึกษา (Co-op/Internship) ในตำแหน่ง:**
 
-* ⚙️ Backend Developer
 * 📱 Mobile Developer
+* ⚙️ Backend Developer
 * 💻 Full-Stack Developer
   
 ---
